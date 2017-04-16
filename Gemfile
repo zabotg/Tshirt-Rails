@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'twitter-bootstrap-rails'
 
+gem 'rails-i18n', '~> 5.0.0'
 
 
 
